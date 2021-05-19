@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Baked salmon",
+    "ingredient": [
+      {"name": "salmon", "amount": 1, "measurement":  "kg"},
+      {"name": "pine nuts", "amount": 1, "measurement": "glass"},
+      {"name": "salad", "amount": 2, "measurement": "head"},
+      {"name": "yellow pumpkin", "amount": 1, "measurement": "piece"},
+      {"name": "olive oil", "amount": 0.5, "measurement": "glass"},
+      {"name": "garlic", "amount": 3, "measurement": "cloves"}
+    ],
+    "steps":[
+      "Preheat the oven to 190 degrees.",
+      "Grease a glass ovenproof dish with olive oil.",
+      "Put the yellow pumpkin in the dish and put it in the oven for 30 minutes.",
+      "Bake for 15 minutes.",
+      "Remove the dish from the oven. Add the salad and serve the dish."
+    ]
+  },
+  {
+    "name": "Fish tacos",
+    "ingredients": [
+      {"name":  "white meat sea fish", "amount": 1, "measurement": "kg"},
+      {"name": "cheese", "amount": 1, "measurement": "pack"},
+      {"name": "iceberg lettuce", "amount": 2, "measurement": "glass"},
+      {"name": "tomatoes", "amount": 2, "measurement": "large-sized"},
+      {"name": "tortilla", "amount": 3, "measurement": "unit"}
+    ],
+    "steps": [
+      "Grill the fish until ready to eat.",
+      "Place the fish on three tortillas.",
+      "Garnish with lettuce, tomatoes and cheese."
+    ]
+  }
+]
