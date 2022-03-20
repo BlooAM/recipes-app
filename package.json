@@ -6,12 +6,28 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlooAM/recipes-app.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlooAM/recipes-app/issues"
+  },
+  "homepage": "https://github.com/BlooAM/recipes-app#readme",
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "serve": "^11.3.2"
+    "serve": "^13.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.3",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
   }
 }
