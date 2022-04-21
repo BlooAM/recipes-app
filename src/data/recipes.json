@@ -1,7 +1,7 @@
 [
   {
     "name": "Baked salmon",
-    "ingredient": [
+    "ingredients": [
       {"name": "salmon", "amount": 1, "measurement":  "kg"},
       {"name": "pine nuts", "amount": 1, "measurement": "glass"},
       {"name": "salad", "amount": 2, "measurement": "head"},
